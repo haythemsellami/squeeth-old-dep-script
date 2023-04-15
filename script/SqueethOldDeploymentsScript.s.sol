@@ -41,11 +41,11 @@ interface IShortPowerPerp {
 }
 
 contract SqueethOldDeploymentsScript is Script {
-    // dep1
+    // old dep1
     address controllerDep1 = 0x4c1fd946A082d26b40154EabD12F7A15a0cB3020;
     address shortPowerPerpDep1 = 0x4ff8329eea2537956bdd227397B14D85A801eC89;
     
-    // dep2
+    // old dep2
     // address controllerDep1 = 0x0344f8706947321FA87881D3DaD0EB1b8C65E732;
     // address shortPowerPerpDep1 = 0x4757F744ec0CF2e3500Dc655F55100C943a59cbb;
 
